@@ -26,10 +26,10 @@ Aquí elaboré algunas figuras geométricas.
 
 En este apartado se explicó de forma detallada lo que se debía realizar para pasar los programas de C a Java.
 
-### [traduciendoAJava](https://https://github.com/Karolita02/De_C_a_Java/tree/master/src/traduciendoAJava)
+### [traduciendoAJava](https://github.com/Karolita02/De_C_a_Java/tree/master/src/traduciendoAJava)
 
 Aquí es donde se desarrollaron los programas en Java que estaban originalmente en C.
 
-### [### ViejosTiempos](https://github.com/Karolita02/De_C_a_Java/tree/master/src/ViejosTiempos)
+### [ViejosTiempos](https://github.com/Karolita02/De_C_a_Java/tree/master/src/ViejosTiempos)
 
 En esta sección se desarrolló una interfaz visual la cual contenía botones paneles y ventanas, donde se desarrollaron problemas sencillos, los cuales anteriormente había creado usando VisualBasic.
