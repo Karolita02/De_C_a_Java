@@ -1,18 +1,31 @@
-## Getting Started
+# De_C_a_Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+En este repositorio tomé programas que había hecho en C y los pasé al lenguaje Java, a su vez este repositorio se se utilizó para otras secciones:
 
-## Folder Structure
+### AppAccesosDirectos
 
-The workspace contains two folders by default, where:
+En esta sección se creó una app para acceder de forma directa a las aplicaciones. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### AprendiendoSobreArchivos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Aquí hice algunas prácticas utilizando archivos.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### CodinGames
 
-## Dependency Management
+Problemas tomados de la página Codin Games y realizados en Java.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Figuritas
+
+Aquí elaboré algunas figuras geométricas.
+
+### Indicaciones_C
+
+En este apartado se explicó de forma detallada lo que se debía realizar para pasar los programas de C a Java.
+
+### traduciendoAJava
+
+Aquí es donde se desarrollaron los programas en Java que estaban originalmente en C.
+
+### ViejosTiempos
+
+En esta sección se desarrolló una interfaz visual la cual contenía botones paneles y ventanas, donde se desarrollaron problemas sencillos, los cuales anteriormente había creado usando VisualBasic.
