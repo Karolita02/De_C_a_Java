@@ -1,0 +1,135 @@
+Triangulo 1
+Hipotenusa: 59.93
+Perimetro: 139.68
+Area: 692.26
+
+Triangulo 2
+Hipotenusa: 165.57
+Perimetro: 341.05
+Area: 845.25
+
+Triangulo 3
+Hipotenusa: 20.09
+Perimetro: 48.04
+Area: 94.41
+
+Triangulo 4
+Hipotenusa: 57.27
+Perimetro: 129.91
+Area: 499.19
+
+Triangulo 5
+Hipotenusa: 37.99
+Perimetro: 88.70
+Area: 282.06
+
+Triangulo 6
+Hipotenusa: 50.83
+Perimetro: 112.62
+Area: 308.61
+
+Triangulo 7
+Hipotenusa: 64.71
+Perimetro: 154.31
+Area: 960.09
+
+Triangulo 8
+Hipotenusa: 30.76
+Perimetro: 71.26
+Area: 173.59
+
+Triangulo 9
+Hipotenusa: 100.04
+Perimetro: 220.73
+Area: 1139.40
+
+Triangulo 10
+Hipotenusa: 153.55
+Perimetro: 308.42
+Area: 101.34
+
+Triangulo 11
+Hipotenusa: 185.04
+Perimetro: 372.50
+Area: 224.81
+
+Triangulo 12
+Hipotenusa: 0.59
+Perimetro: 1.38
+Area: 0.07
+
+Triangulo 13
+Hipotenusa: 154.21
+Perimetro: 339.03
+Area: 2595.48
+
+Triangulo 14
+Hipotenusa: 162.74
+Perimetro: 370.69
+Area: 4189.94
+
+Triangulo 15
+Hipotenusa: 869.02
+Perimetro: 1925.44
+Area: 90204.91
+
+Triangulo 16
+Hipotenusa: 66.23
+Perimetro: 146.86
+Area: 528.60
+
+Triangulo 17
+Hipotenusa: 23.80
+Perimetro: 57.44
+Area: 141.45
+
+Triangulo 18
+Hipotenusa: 338.82
+Perimetro: 759.24
+Area: 15487.18
+
+Triangulo 19
+Hipotenusa: 2.46
+Perimetro: 5.06
+Area: 0.19
+
+Triangulo 20
+Hipotenusa: 5.84
+Perimetro: 13.34
+Area: 5.53
+
+Triangulo 21
+Hipotenusa: 16.03
+Perimetro: 36.41
+Area: 39.56
+
+Triangulo 22
+Hipotenusa: 15.39
+Perimetro: 36.48
+Area: 51.93
+
+Triangulo 23
+Hipotenusa: 10.55
+Perimetro: 21.91
+Area: 4.42
+
+Triangulo 24
+Hipotenusa: 92.45
+Perimetro: 219.13
+Area: 1875.52
+
+Triangulo 25
+Hipotenusa: 61.86
+Perimetro: 148.77
+Area: 932.14
+
+Triangulo 26
+Hipotenusa: 39.69
+Perimetro: 92.18
+Area: 294.75
+
+Triangulo 27
+Hipotenusa: 95.34
+Perimetro: 198.34
+Area: 380.00
+

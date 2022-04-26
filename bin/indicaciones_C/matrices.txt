@@ -1,0 +1,3 @@
+crear un programa que permita hacer una matriz de cualquier tamaño y que se rellene con numeros aleatorios.
+debe poder sumar restar y multiplicar.
+ANOTACION: aplique toda la creatividad que quiera, se evaluara tambien.
