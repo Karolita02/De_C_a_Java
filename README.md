@@ -1,6 +1,6 @@
 # De_C_a_Java
 
-En este repositorio tomé programas que había hecho en C y los pasé al lenguaje Java, a su vez este repositorio se se utilizó para otras secciones:
+En este repositorio tomé programas que había hecho en C y los pasé al lenguaje Java, a su vez este repositorio se  utilizó para otras secciones:
 
 ### AppAccesosDirectos
 
