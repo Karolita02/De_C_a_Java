@@ -33,3 +33,7 @@ Aquí es donde se desarrollaron los programas en Java que estaban originalmente 
 ### [ViejosTiempos](https://github.com/Karolita02/De_C_a_Java/tree/master/src/ViejosTiempos)
 
 En esta sección se desarrolló una interfaz visual la cual contenía botones paneles y ventanas, donde se desarrollaron problemas sencillos, los cuales anteriormente había creado usando VisualBasic.
+
+## [MasSobreJava](https://github.com/Karolita02/De_C_a_Java/tree/master/src/MasSobreJava)
+
+En esta subdivisión del repositorio practico las distintas funcionalidades y métodos que tiene Java, los cuales investigo, por el momento he practicado el encapsulamiento y los lamdas.
